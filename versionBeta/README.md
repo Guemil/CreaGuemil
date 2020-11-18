@@ -8,8 +8,10 @@ En esta versión, el `index.php` que incluye:
 
 - Alerta para quienes utilicen Tablet, con recomendación de utilizar computador o teléfono. 
 
-- Ingreso de un par de datos personales que luego se agregarán en el título de la pestaña donde se despliega el juego: `CreaGuemil | Nombre Apellido | X años`
+- Solicitud de un par de datos personales que luego se agregarán en el título de la página en donde se despliega lo desarrollado en Unity: *CreaGuemil | Nombre Apellido | X años*. Este título puede ser utilizado automáticamente por Chrome al momento de imprimir pantalla como PDF.
 
 - Referencia al apoyo del FONDART
 
-El juego se despliega dentro de la página `beta.php`.
+Lo desarrollado en Unity por [Fernando Gajardo](https://github.com/fjgajardo) se despliega dentro de la página `beta.php`.
+
+Tanto en `index.php` como en `beta.php` se afinan los metadatos, con la descripción: *CreaGuemil es parte de una iniciativa abierta de íconos, orientada a representar situaciones de riesgo y emergencia*.
