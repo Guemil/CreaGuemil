@@ -2,9 +2,9 @@
 
 ### Versión Beta 
 
-Esta es la versión que queda en línea, en https://crea.guemil.info, par ser puesta a prueba en el **Taller Información Visual para Emergencias** de [Guemil Iconos para Emergencia](https://www.guemil.info/) + [DGIR Talcahuano](http://www.talcahuano.cl/minisitios/gestionriesgos/)
+Esta es la versión que queda en línea, en https://crea.guemil.info, para ser puesta a prueba en el **Taller Información Visual para Emergencias** de [Guemil Iconos para Emergencia](https://www.guemil.info/) + [DGIR Talcahuano](http://www.talcahuano.cl/minisitios/gestionriesgos/)
 
-En esta versión, el `index.php` que incluye:
+En esta versión, el `index.php` incluye:
 
 - Alerta para quienes utilicen Tablet, con recomendación de utilizar computador o teléfono. 
 
