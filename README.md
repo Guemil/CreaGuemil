@@ -1,8 +1,8 @@
 # Crea Guemil
 
-Crea Guemil is a drawing application based on the Unity game engine, which allows youngsters to become familiar with visual information related to risk and emergency situations.
+**Crea**Guemil is a drawing application based on the Unity game engine, which allows youngsters to get acquainted with visual information related to risk and emergency situations
 
-Crea Guemil was developed by [Fernando Gajardo](https://github.com/fjgajardo).
+**Crea**Guemil was developed by [Fernando Gajardo](https://github.com/fjgajardo).
 
 - - - - - - - -
 
