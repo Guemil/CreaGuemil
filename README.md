@@ -1,7 +1,6 @@
 # Crea Guemil
 
-**Crea**Guemil is a drawing application based on the Unity game engine, which allows youngsters to get acquainted with the uses of visual information before, during, and after an emergency | **Crea**Guemil es una aplicación de dibujo basada en el motor de juegos de Unity, que permite a los más jóvenes familiarizarse con los usos de la información visual…
-
+**Crea**Guemil is a drawing application that allows youngsters to get acquainted with the uses of visual information before, during, and after an emergency | **Crea**Guemil es una aplicación de dibujo que permite a los jóvenes familiarizarse con los usos de la información visual antes, durante y después de una emergencia.
 
 The first version of **Crea**Guemil was developed by [Fernando Gajardo](https://github.com/fjgajardo) | La primera versión de **Crea** Guemil fue desarrollada por [Fernando Gajardo](https://github.com/fjgajardo).
 
